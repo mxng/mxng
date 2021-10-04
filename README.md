@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://resume.io/r/3Y3UdyA0t](https://resume.io/r/3Y3UdyA0t)
 
-- ⚡ Fun fact **I like tea and turtles**
+- ⚡ Fun fact **I like tea 🍵 and turtles 🐢**
 
 
 <h3 align="left">Languages and Tools:</h3>
