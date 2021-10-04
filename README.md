@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Min Xuan Ng</h1>
-<h3 align="center">A passionate backend developer from Singapore</h3>
+<h3 align="center">A passionate software developer from Singapore</h3>
 
 - 🔭 I’m currently working on [Chomp](https://github.com/TeeWhyKay/Chomp)
 
