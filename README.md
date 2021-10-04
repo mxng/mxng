@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Chomp](https://github.com/TeeWhyKay/Chomp)
 
-- 🌱 I’m currently re-learning **python** and trying to pick up **Golang**, any help appreciated!
+- 🌱 I’m currently re-learning **python** and equiping myself with knowledge useful for backend programming
 
 - 📫 How to reach me **hi@ngminxuan.com**
 
