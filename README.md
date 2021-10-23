@@ -1,23 +1,7 @@
-<!--
-**mxng/mxng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Min Xuan Ng</h1>
 <h3 align="center">A passionate software developer from Singapore</h3>
 
-- 🔭 I’m currently working on [Chomp](https://github.com/TeeWhyKay/Chomp)
-
-- 🌱 I’m currently leveling up my frontend skills and looking for frontend web development jobs.
+- 🌱 I’m currently leveling up my knowledge in JavaScript and looking for frontend or fullstack web development roles.
 
 - 📫 How to reach me **hi@ngminxuan.com**
 
