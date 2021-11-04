@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Min Xuan Ng</h1>
 <h3 align="center">A passionate software developer from Singapore</h3>
 
-- 🌱 I’m currently leveling up my knowledge in JavaScript and looking for frontend or fullstack web development roles.
+- 🌱 I’m currently leveling up my knowledge in JavaScript
 
 - 📫 How to reach me **hi@ngminxuan.com**
 
